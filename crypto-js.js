@@ -1,0 +1,1 @@
+// Load from CDN in index.html instead of embedding full script
